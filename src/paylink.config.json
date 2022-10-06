@@ -90,6 +90,12 @@
       "img": "./images/payments/usdt.svg"
     },
     {
+      "id": "usdt",
+      "label": "USDT TRC20 KuCoin",
+      "value": "TWcEv8oYYC3wdLLahkY2B6tQ9CyDGTvpYV",
+      "img": "./images/payments/usdt.svg"
+    },
+    {
       "id": "qvapay",
       "label": "QvaPay",
       "value": "",
